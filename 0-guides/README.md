@@ -1,10 +1,12 @@
-# 📈 Fashion Trend Tracking
+# 🧭 Beginner Guides & Cheat Sheets
 
-This folder contains files and notes related to trend forecasting, data analysis, and seasonal research.
+This folder contains how-to documents, tutorials, and beginner references for using tools like GitHub, Markdown, Google Sheets, AI models, and more.
 
-## 📂 Contents
-- Weekly trend logs
-- Market insights from platforms like Pinterest and Google Trends
-- AI forecasting notes
+## 📌 Topics (planned)
+- GitHub Basics
+- Markdown Cheat Sheet
+- Workflow tips for creative project management
+- Setting Up Trend Tracking Tools
+- AI Prompt Writing (Midjourney, ChatGPT)
 
-_Created July 2025 — maintained by Rosagna Hernandez_
+_Updated as skills evolve._
